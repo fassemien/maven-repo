@@ -12,6 +12,6 @@ public class DemoApplication {
 	}
 
 	public String getName(){
-		return "Assemien Fabrice";
+		return "Assemien Fabrice Veone";
 	}
 }
